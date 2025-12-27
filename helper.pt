@@ -1,0 +1,9 @@
+def helper(n):
+print(n)
+helper(n-1)
+helper(5)
+helper(4)
+helper(3)
+helper(2)
+helper(1)
+
